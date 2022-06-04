@@ -20,7 +20,7 @@ Account comes with a handy npm package `arweave-account` which makes easy for ot
 - Extend Account for specific permadapps to add custom entries along with the common profile data.
 - Integrate Account on Metaweave.
 
-# MetaMask Browser Extension
+# MetaMask Mobile Application
 
 You can find the latest version of MetaMask on [our official website](https://metamask.io/). For help using MetaMask, visit our [User Support Site](https://metamask.zendesk.com/hc/en-us).
 
